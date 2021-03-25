@@ -1,3 +1,5 @@
 # Percy Jackson's Books
 
-[https://i.imgur.com/aEaq4Q5.png]
+API with the first five books of the series.
+
+![percy](https://i.imgur.com/aEaq4Q5.png)
