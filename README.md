@@ -3,3 +3,5 @@
 API with the first five books of the series.
 
 ![percy](https://i.imgur.com/aEaq4Q5.png)
+
+Endpoint: https://percyjackson-api.herokuapp.com/api/books/:bookTitle
